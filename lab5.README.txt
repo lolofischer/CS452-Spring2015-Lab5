@@ -1,1 +1,1 @@
-name, date, description
+Logan Fischer, April 2015, Lab 5 - Giving error in JS file for no apparent reason. Code should be close besides that. 
